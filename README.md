@@ -27,6 +27,34 @@ quillcartraya_maven_project/
                         ├── UIX.java
                         └── WelcomePanel.java
 ```
+## Application Interface
+
+অ্যাপ্লিকেশনের বিভিন্ন ফিচারের স্ক্রিনশট নিচে দেওয়া হলো:
+
+### 1. Welcome & Authentication
+| Welcome Page | Customer Registration | Customer Login |
+| :---: | :---: | :---: |
+| ![Welcome](Screenshots/Welcomepage.png) | ![Registration](Screenshots/CustomerRegistrationpage.png) | ![Login](Screenshots/CustomerLoginPage.png) |
+
+### 2. Shopping Experience
+| Main Store | Checkout Page | Purchase Confirmation |
+| :---: | :---: | :---: |
+| ![Store](Screenshots/Customerpage.png) | ![Checkout](Screenshots/Checkoutpage.png) | ![Purchase](Screenshots/CustomerPurchaseed.png) |
+
+### 3. Management & History
+| Customer Records | Order Details | Owner Dashboard |
+| :---: | :---: | :---: |
+| ![Records](Screenshots/CustomerRecordes.png) | ![Details](Screenshots/Customerorderditealsinformation.png) | ![Owner](Screenshots/Ownerpage.png) |
+
+### 4. Receipts
+| Digital Receipt | Print Preview |
+| :---: | :---: |
+| ![Receipt](Screenshots/Recieptpage.png) | ![Print](Screenshots/Recieptprint.png) |
+
+---
+
+
+
 
 ## How to Build and Run
 
