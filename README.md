@@ -76,7 +76,7 @@ quillcartraya_maven_project/
 
 - The project uses only Java's standard library, so no external dependencies are required.
 - The default owner password is `owner123`.
-- There's a promotional code `Discount` that gives a discount to the customer at checkout.
+- There's a promotional code **`MetroElite`** that gives a discount to the customer at checkout.
 
 Enjoy exploring the online bookstore!
 
