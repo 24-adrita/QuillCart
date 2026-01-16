@@ -79,3 +79,16 @@ quillcartraya_maven_project/
 - There's a promotional code `Discount` that gives a discount to the customer at checkout.
 
 Enjoy exploring the online bookstore!
+
+---
+
+## 🎓 Developer Profile
+
+| Detail | Information |
+| :--- | :--- |
+| **Name** | Adrita Chakraborty |
+| **Student ID** | [232-115-324] |
+| **Institution** | [Metropolitan University] |
+| **Department** | Computer Science and Engineering |
+
+*Developed as part of the Academic Curriculum 2026*
