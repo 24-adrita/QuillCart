@@ -29,7 +29,7 @@ quillcartraya_maven_project/
 ```
 ## Application Interface
 
-অ্যাপ্লিকেশনের বিভিন্ন ফিচারের স্ক্রিনশট নিচে দেওয়া হলো:
+
 
 ### 1. Welcome & Authentication
 | Welcome Page | Customer Registration | Customer Login |
