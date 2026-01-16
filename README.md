@@ -1,4 +1,4 @@
-# QuillcartRaya Maven Project
+# Quillcart Maven Project
 
 This project contains a simple online bookstore GUI application developed using Java Swing. The project has been structured as a Maven project so that it can be easily imported into popular IDEs like IntelliJ IDEA, Eclipse, or NetBeans.
 
