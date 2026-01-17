@@ -32,9 +32,9 @@ quillcartraya_maven_project/
 
 
 ### 1. Welcome & Authentication
-| Welcome Page | Customer Registration | Customer Login |
-| :---: | :---: | :---: |
-| ![Welcome](Screenshots/Welcomepage.png) | ![Registration](Screenshots/CustomerRegistrationpage.png) | ![Login](Screenshots/CustomerLoginPage.png) |
+| Welcome Page | Customer Registration | Customer Login | Owner Login |
+| :---: | :---: | :---: | :---: |
+| ![Welcome](Screenshots/Welcomepage.png) | ![Registration](Screenshots/CustomerRegistrationpage.png) | ![Login](Screenshots/CustomerLoginPage.png) | ![Owner Login](Screenshots/OwnerLogin.png) |
 
 ### 2. Shopping Experience
 | Main Store | Checkout Page | Purchase Confirmation |
